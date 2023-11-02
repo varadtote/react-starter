@@ -1,4 +1,4 @@
 
 ```
-git clone https://github.com/varadtote/react-starter.git
+git clone https://github.com/varadtote/react-starter.git .
 ```
